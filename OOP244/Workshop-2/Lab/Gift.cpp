@@ -1,9 +1,3 @@
-// Gift.cpp
-/* Name: Kairat Orozobekov
-   Student ID: 104 998 190
-   Email: korozobekov@myseneca.ca
-   Section: NAB */
-   
 #include "Gift.h"
 #include <iostream>
 using namespace std;

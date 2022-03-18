@@ -1,9 +1,3 @@
-//Train.cpp
-/* Name: Kairat Orozobekov
-   Student ID: 104 998 190
-   Email: korozobekov@myseneca.ca
-   Section: NAB */
-
 #include "Train.h"
 #include <iostream>
 #include <iomanip>

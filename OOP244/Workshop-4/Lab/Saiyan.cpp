@@ -1,9 +1,3 @@
-/*Name: Kairat Orozobekov
-  Student ID: 104 998 190
-  Email: korozobekov@myseneca.ca
-  Section: NBB
-  Date: 02.07.2020*/
-
 #define _CRT_SECURE_NO_WARNINGS
 #include "Saiyan.h"
 #include <iostream>

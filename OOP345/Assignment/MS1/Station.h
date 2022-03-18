@@ -1,10 +1,3 @@
-// Name: Kairat Orozobekov
-// Seneca Student ID: 104 998 190
-// Seneca email: korozobekov@myseneca.ca
-// Date of completion: 07.16.20
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
 #ifndef STATION_H
 #define STATION_H
 #include <string>

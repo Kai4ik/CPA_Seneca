@@ -1,12 +1,3 @@
-/* Student name: Kairat Orozobekov
-   Student #: 104 998 190
-   Student email: korozobekov@myseneca.ca
-   Date submitted: 2020.05.26
-   Course: OOP345, Section NEE
-   I have done all the coding by myself and only copied the code that my professor provided 
-   to complete my workshops and assignments. 
-*/
-
 // Workshop 1 - Linkage, Storage Duration, Namespaces, and OS Interface
 // Cornel - 2020/01/08
 

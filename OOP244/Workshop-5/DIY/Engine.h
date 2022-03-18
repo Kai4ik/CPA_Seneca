@@ -1,9 +1,3 @@
-/**********************************************************
- * Name: Kairat Orozobekov
- * Student ID: 104 998 190
- * Seneca email: korozobekov@myseneca.ca
- * Section: NBB
- **********************************************************/
 #pragma once
 #ifndef SDDS_ENGINE_H
 #define SDDS_ENGINE_H

@@ -1,9 +1,3 @@
-// Gift.h
-/* Name: Kairat Orozobekov
-   Student ID: 104 998 190
-   Email: korozobekov@myseneca.ca
-   Section: NAB */
-   
 #pragma once
 #ifndef SDDS_GIFT_H 
 #define SDDS_GIFT_H

@@ -1,10 +1,3 @@
-/**********************************************************
- * Name: Kairat Orozobekov
- * Student ID: 104 998 190
- * Seneca email: korozobekov@myseneca.ca
- * Section: NBB
- **********************************************************/
-
 #include "Engine.h"
 #include <iostream>
 #include <string.h>

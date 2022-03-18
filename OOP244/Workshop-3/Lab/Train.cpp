@@ -1,8 +1,3 @@
-/* Name: Kairat Orozobekov
-   Student ID: 104 998 190
-   Email: korozobekov@myseneca.ca
-   Section: NAB */
-
 //Train.cpp
 #pragma warning(disable : 4996)
 #include "Train.h"

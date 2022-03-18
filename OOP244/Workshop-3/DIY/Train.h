@@ -1,9 +1,4 @@
-/* Name: Kairat Orozobekov
-   Student ID: 104 998 190
-   Email: korozobekov@myseneca.ca
-   Section: NAB */
-
- // Train.h
+// Train.h
 #ifndef SDDS_TRAIN_H 
 #define SDDS_TRAIN_H
 using namespace std;
